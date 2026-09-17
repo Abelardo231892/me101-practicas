@@ -1,0 +1,1 @@
+Esta carpeta contiene las evidencias de la guía 3 del tema 2, el trabajo en jupyter y en Rstudio, para ejecutar se necesita el entorno conda con Python 3.11 y en el R se necesita el paquete tidyverse
