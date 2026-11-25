@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.959017,
+          -13.521848
+        ]
+      },
+      "properties": {
+        "nombre": "La UNSAAC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.927168,
+          -13.548218
+        ]
+      },
+      "properties": {
+        "nombre": "Casa en Cusco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.315941,
+          -13.669821
+        ]
+      },
+      "properties": {
+        "nombre": "Casa de Origen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.926167,
+          -13.534574
+        ]
+      },
+      "properties": {
+        "nombre": "Casa Cualquiera"
+      }
+    }
+  ]
+}
